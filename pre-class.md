@@ -125,5 +125,7 @@ Before Zoom class, make sure you can:
 
 ## **❓ Pre-Class Questions to Consider**
 
-1. Why might we want to label our data (using an Index) instead of just using numbered positions (0, 1, 2)?  
-2. If a DataFrame is a collection of Series, what happens if we extract just one column from a DataFrame?
+1. Why might we want to label our data (using an Index) instead of just using numbered positions (0, 1, 2)?
+   Ans: For easy retrieval by index  
+3. If a DataFrame is a collection of Series, what happens if we extract just one column from a DataFrame?
+   Ans: Equivalent to extracing the values of a field from a table
